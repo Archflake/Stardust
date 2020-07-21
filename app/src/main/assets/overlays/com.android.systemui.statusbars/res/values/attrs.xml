@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <attr name="showMissingSim" format="boolean" />
+    <attr name="showAirplaneMode" format="boolean" />
+    <attr name="textAppearance" format="reference" />
+    <attr name="hasOverlappingRendering" format="boolean" />
+    
+</resources>
